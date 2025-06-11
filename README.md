@@ -1,5 +1,5 @@
-## Hi there 👋
-Im Akhil TS
+## Hi there 👋 ,Im Akhil TS
+- 🔭 I’m currently working on ...
 BTECH 
 I am a motivated and enthusiastic computer science graduate seeking to begin my career in a dynamic and
 growth-oriented organization. With a strong academic foundation and practical exposure to technology, I am
