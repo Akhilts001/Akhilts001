@@ -1,4 +1,11 @@
 ## Hi there 👋
+Im Akhil TS
+BTECH 
+I am a motivated and enthusiastic computer science graduate seeking to begin my career in a dynamic and
+growth-oriented organization. With a strong academic foundation and practical exposure to technology, I am
+committed to contributing to innovative projects, learning new concepts, and growing both personally and
+professionally. My goal is to utilize my knowledge and dedication to achieve organizational objectives and
+make a positive impact.
 
 <!--
 **Akhilts001/Akhilts001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
